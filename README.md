@@ -1,2 +1,2 @@
-# modulo-seis
-Criando um algoritmo em portugol para acordar
+# modulo-sete
+Criando uma classe com propriedades e métodos simples e fazendo comentários
